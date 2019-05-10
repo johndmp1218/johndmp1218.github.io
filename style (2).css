@@ -52,6 +52,8 @@ a:hover {
 
 #wrapper {
 	background: url(images/img02.jpg) no-repeat left top;
+	width: 1000px
+	height: 1000px ;
 }
 
 #wrapper2 {
@@ -59,7 +61,7 @@ a:hover {
 }
 
 .container {
-	width: 200px;
+	width: 1000px;
 	margin: 0px auto;
 }
 
