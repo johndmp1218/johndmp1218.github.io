@@ -50,10 +50,18 @@ a:hover {
 }
 
 #wrapper {
-	width: 960px;
-	margin: 0 auto;
-	padding: 0;
+	background: url(images/img02.jpg) no-repeat left top;
 }
+
+#wrapper2 {
+	background: url(images/img03.jpg) repeat-x left bottom;
+}
+
+.container {
+	width: 200px;
+	margin: 0px auto;
+}
+
 
 /* Header */
 
